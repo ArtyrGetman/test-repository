@@ -9,6 +9,8 @@ public class Main {
      Student student5 = new Student(16);
      Student student6 = new Student(16);
      Student student7 = new Student(16);
+     Student student8 = new Student(16);
+     Student student9 = new Student(16);
 
      int result = (student.getAge()+student2.getAge()+student3.getAge())/3;
 
